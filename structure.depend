@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680362921 source:c:\users\dell\desktop\pp_gin\structure\main.c
+	<stdio.h>
+	"structure.h"
+
+1680362849 c:\users\dell\desktop\pp_gin\structure\structure.h
+
+1680362594 source:c:\users\dell\desktop\pp_gin\structure\structure.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"structure.h"
+
